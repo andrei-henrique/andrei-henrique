@@ -1,4 +1,4 @@
-<h1 align="center"> Ola 👋, me chamo Andrei</h1>
+<h1 align="center"> Ola 👋, Eu me chamo Andrei</h1>
 
 <br/>
 
